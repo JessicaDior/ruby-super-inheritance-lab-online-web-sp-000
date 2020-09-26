@@ -8,3 +8,5 @@ end
 def raise_hand
   super.new(10)
 end
+
+end
